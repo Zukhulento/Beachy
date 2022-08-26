@@ -1,0 +1,12 @@
+.boton-de-chat {
+    width: 500px;
+}
+
+
+#sobre{
+    transition: 1s;
+    width: 500px !important;
+}
+#sobre:hover{
+  transform: scale(1.5);
+}
